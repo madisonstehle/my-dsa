@@ -7,3 +7,4 @@ Repository for practicing DSA through hackerrank, leetcode, and more
 
 ## 30 Days of Code
 - [11/11/20](./hackerrank30daysOfCode/day0/challenge.md)
+- [11/12/20](./hackerrank30daysOfCode/day1/challenge.md)
