@@ -6,6 +6,7 @@ Repository for practicing DSA through hackerrank, leetcode, and more.
 ### [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [Sales by Match](./hackerrank/salesByMatch/challenge.md)
 - [Counting Valleys](./hackerrank/countingValleys/challenge.md)
+- [Jumping on the Clouds](./hackerrank/jumpingOnTheClouds/challenge.md)
 
 ### [Problem Solving](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
 - [Simple Array Sum](./hackerrank/simpleArraySum/challenge.md)
