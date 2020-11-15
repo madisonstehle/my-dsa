@@ -16,3 +16,4 @@ Repository for practicing DSA through hackerrank, leetcode, and more.
 - [11/12/20: Data Types](./hackerrank30daysOfCode/day1/challenge.md)
 - [11/13/20: Operators](./hackerrank30daysOfCode/day2/challenge.md)
 - [11/14/20: Intro to Conditional Statements](./hackerrank30daysOfCode/day3/challenge.md)
+- [11/15/20: Class vs. Instance](./hackerrank30daysOfCode/day4/challenge.md)
