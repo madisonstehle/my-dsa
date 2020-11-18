@@ -20,3 +20,4 @@ Repository for practicing DSA through hackerrank, leetcode, and more.
 - [11/15/20: Class vs. Instance](./hackerrank30daysOfCode/day4/challenge.md)
 - [11/16/20: Loops](./hackerrank30daysOfCode/day5/challenge.md)
 - [11/17/20: Let's Review](./hackerrank30daysOfCode/day6/challenge.md)
+- [11/18/20: Arrays](./hackerrank30daysOfCode/day7/challenge.md)
